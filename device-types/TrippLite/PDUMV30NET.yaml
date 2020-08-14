@@ -1,0 +1,87 @@
+manufacturer: Tripp-Lite
+model: PDUMV30NET
+slug: pdumv30net
+part_number: 037332139726
+u_height: 0
+is_full_depth: false
+comment: 2.9kW Single-Phase Switched PDU, 120V Outlets (24 5-15/20R), L5-30P, 10ft Cord, 0U Vertical
+console-ports:
+- name: RS232
+  type: de-9
+power-ports:
+- name: AC In
+  type: nema-l5-30p
+  maximum_draw: 2900
+power-outlets:
+- name: 1
+  type: nema-5-20r
+  power-port: AC In
+- name: 2
+  type: nema-5-20r
+  power-port: AC In
+- name: 3
+  type: nema-5-20r
+  power-port: AC In
+- name: 4
+  type: nema-5-20r
+  power-port: AC In
+- name: 5
+  type: nema-5-20r
+  power-port: AC In
+- name: 6
+  type: nema-5-20r
+  power-port: AC In
+- name: 7
+  type: nema-5-20r
+  power-port: AC In
+- name: 8
+  type: nema-5-20r
+  power-port: AC In
+- name: 9
+  type: nema-5-20r
+  power-port: AC In
+- name: 10
+  type: nema-5-20r
+  power-port: AC In
+- name: 11
+  type: nema-5-20r
+  power-port: AC In
+- name: 12
+  type: nema-5-20r
+  power-port: AC In
+- name: 13
+  type: nema-5-20r
+  power-port: AC In
+- name: 14
+  type: nema-5-20r
+  power-port: AC In
+- name: 15
+  type: nema-5-20r
+  power-port: AC In
+- name: 16
+  type: nema-5-20r
+  power-port: AC In
+- name: 17
+  type: nema-5-20r
+  power-port: AC In
+- name: 18
+  type: nema-5-20r
+  power-port: AC In
+- name: 19
+  type: nema-5-20r
+  power-port: AC In
+- name: 20
+  type: nema-5-20r
+  power-port: AC In
+- name: 21
+  type: nema-5-20r
+  power-port: AC In
+- name: 22
+  type: nema-5-20r
+  power-port: AC In
+- name: 23
+  type: nema-5-20r
+  power-port: AC In
+- name: 24
+  type: nema-5-20r
+  power-port: AC In
