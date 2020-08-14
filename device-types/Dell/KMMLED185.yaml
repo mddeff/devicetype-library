@@ -1,0 +1,16 @@
+manufacturer: Dell
+model: KMMLED185
+slug: kmmled185
+comment: "Rack-mounted Keyboard, Monitor, Mouse pull-out tray.  Made by Avocent for Dell"
+u_height: 1
+is_full_depth: true
+console-ports:
+  - name: VGA
+    type: other
+  - name: USB
+    type: usb-a
+  - name: USB
+    type: usb-a
+power-ports:
+  - name: Power
+    type: iec-60320-c14
